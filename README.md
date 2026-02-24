@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 🕸️ Hey there! I'm Milena Alegre 🕷️  
 
 > “Com grandes poderes vêm grandes commits.”

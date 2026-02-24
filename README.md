@@ -4,7 +4,7 @@
 
 ---
 
-### 💻 Tech Stack
+### 💻 Stacks
 
 <p align="center">
   <!-- Front -->
